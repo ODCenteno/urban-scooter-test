@@ -3,7 +3,7 @@ VALID_DATA = {
         "name": "Daniel",
         "last_name": "Montalvo",
         "address": "Camelias 123",
-        "phone": "+ 1 123 234 345"
+        "phone": "+1123234345"
     }
 }
 
