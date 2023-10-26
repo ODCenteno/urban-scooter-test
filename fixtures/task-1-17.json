@@ -1,0 +1,36 @@
+{
+  "Menú": {
+    "id": "1",
+    "value": "Archivo",
+    "lista": {
+      "items": {
+        "new_doc": {
+          "value": "Nuevo",
+          "onclick": "create_new_doc"
+          },
+        "open_doc": {
+          "value": "Abrir...",
+          "onclick": "open_doc"
+          },
+        "save_doc": {
+          "value": "Guardar",
+          "onclick": "save_doc"
+          },
+        "save_as_doc": {
+          "value": "Guardar como...",
+          "onclick": "save_as_doc"
+          },
+        "print_option": {
+          "value": "Opciones de impresión",
+          "onclick": {
+            "show_print_option": {
+              "Color": "Saturado",
+              "¿Impresión en blanco y negro?": "",
+              "Tamaño de impresión": "A4"
+            }
+          }
+        }
+      }      
+    }
+  }
+}
